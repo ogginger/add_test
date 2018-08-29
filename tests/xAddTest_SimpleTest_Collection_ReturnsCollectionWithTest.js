@@ -15,7 +15,7 @@ define([
 		"ExpectedOutput": [ { "Name": "SimpleTest" } ],
 		"Comparator": {
 			"Object": true,
-			"Debug": true
+			"Debug": false
 		}
 	};
 });
